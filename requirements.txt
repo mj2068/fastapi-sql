@@ -1,2 +1,5 @@
 pydantic<2
 SQLAlchemy<2
+passlib
+fastapi
+
