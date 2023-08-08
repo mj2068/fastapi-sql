@@ -1,0 +1,2 @@
+pydantic<2
+SQLAlchemy<2
